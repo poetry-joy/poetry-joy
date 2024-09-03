@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align=“center”>✨FZU大学✨的聪明学生</h3>
 
 - 🌱 我目前正在学习 **软件工程**
-- 我喜欢唱歌跳舞画画敲代码学计算机，计算机的痴迷爱好者
+- 我喜欢唱歌跳舞画画敲代码喜羊羊学计算机，计算机的痴迷爱好者
 - 📝 我有时在[csdn]（https://www.cnblogs.com/shiyueshining）上写文章
 - 😄我目前会C、C++、Python、Java、前端、Linux、MySQL
 - 💬我的经验就是多学多练多实战、多多在实践操作中解决问题、多看别人的论文、多尝试论文复现
